@@ -71,12 +71,19 @@ html {
 .box {
   display: flex;
   justify-content: center;
+  width: 50vw;
 }
 
 .book-title {
   font-weight: 600;
+  font-size: 3em;
 }
 
 .description {
   font-weight: 100;
+  font-size: 2em;
+}
+
+.copyright {
+  font-size: 0.7em;
 }
